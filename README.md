@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @deeepp
-- 👀 I’m interested in web development, machine learning
-- 🌱 I’m currently learning web dev
+- 🌱 I’m currently learning dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 
