@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI, software Development<br>👯 I’m looking to collaborate on impactful projects<br>🌱 I’m currently learning <br>💬 Ask me about software engineering , DSA<br>⚡ Fun fact - Mad fan of filter coffee
+🔭 I’m currently working on AI, software Development<br>👯 I’m looking to collaborate on impactful projects<br>🌱 I’m currently learning Flask , Integration<br>💬 Ask me about software engineering , DSA<br>⚡ Fun fact - Mad fan of filter coffee
 
 
 # 💻 Tech Stack:
